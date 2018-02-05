@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrCode", "QrCode.csproj", "{FA1B4EC3-DF41-4B5A-87EA-312869FF7278}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrCodeLib", "QrCodeLib\QrCodeLib.csproj", "{35EBA53B-1F2A-4F79-82C4-D787B20A9A21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrCodeApp", "QrCodeApp\QrCodeApp.csproj", "{09B6B4CD-CDBB-4C13-953D-32998CC1701B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{FA1B4EC3-DF41-4B5A-87EA-312869FF7278}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA1B4EC3-DF41-4B5A-87EA-312869FF7278}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA1B4EC3-DF41-4B5A-87EA-312869FF7278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35EBA53B-1F2A-4F79-82C4-D787B20A9A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35EBA53B-1F2A-4F79-82C4-D787B20A9A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35EBA53B-1F2A-4F79-82C4-D787B20A9A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35EBA53B-1F2A-4F79-82C4-D787B20A9A21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09B6B4CD-CDBB-4C13-953D-32998CC1701B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B6B4CD-CDBB-4C13-953D-32998CC1701B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B6B4CD-CDBB-4C13-953D-32998CC1701B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B6B4CD-CDBB-4C13-953D-32998CC1701B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
